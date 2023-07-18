@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1684710257 source:c:\users\safiul\desktop\stack\stack_ll\main.cpp
+	<iostream>
+	<string>
+	"stacktype.h"
+	"stacktype.cpp"
+
+1684694459 source:c:\users\safiul\desktop\stack\stack_ll\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1684694459 c:\users\safiul\desktop\stack\stack_ll\stacktype.h
+
+1684694459 c:\users\safiul\desktop\stack\stack_ll\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+

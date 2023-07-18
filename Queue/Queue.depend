@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1684791979 source:c:\users\safiul\desktop\queue\main.cpp
+	<iostream>
+	"QueType.cpp"
+
+1684754483 source:c:\users\safiul\desktop\queue\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1684754483 c:\users\safiul\desktop\queue\quetype.h
+
+1684754483 c:\users\safiul\desktop\queue\quetype.cpp
+	"quetype.h"
+	<iostream>
+
